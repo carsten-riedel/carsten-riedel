@@ -15,8 +15,10 @@
 | .NET Standard  | https://docs.microsoft.com/en-us/dotnet/standard/net-standard  |
 | MSBuild Properties  | https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties?view=vs-2022  |
 
-
-
+<br><br><br>Tools list:
+| Description  | Link |
+| ------------- | ------------- |
+| Draw.io  | https://github.com/jgraph/drawio-desktop/releases  |
 
 <!---
 NaitWatch/NaitWatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
