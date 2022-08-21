@@ -6,7 +6,7 @@
 - :test_tube: Only use complex coding patterns if you need to, most of them are just taste.
 - 📫 How to reach me ...<br>
 
-<br><br><br>Link list:
+<br>Link list:
 | Description  | Link |
 | ------------- | ------------- |
 | GitHub Markdown  | https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  |
@@ -15,10 +15,16 @@
 | .NET Standard  | https://docs.microsoft.com/en-us/dotnet/standard/net-standard  |
 | MSBuild Properties  | https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties?view=vs-2022  |
 
-<br><br><br>Tools list:
+<br>Desktop Program/Tools list:
 | Description  | Link |
 | ------------- | ------------- |
 | Draw.io  | https://github.com/jgraph/drawio-desktop/releases  |
+
+<br>Online Program/Tools list:
+| Description  | Link |
+| ------------- | ------------- |
+| Free Text-To-Speech and Text-to-MP3  | https://ttsmp3.com/  |
+| Deepl translator | https://www.deepl.com/en/translator  |
 
 <!---
 NaitWatch/NaitWatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
