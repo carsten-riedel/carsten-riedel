@@ -14,6 +14,8 @@
 | Target frameworks  | https://docs.microsoft.com/en-Us/dotnet/standard/frameworks  |
 | .NET Standard  | https://docs.microsoft.com/en-us/dotnet/standard/net-standard  |
 | MSBuild Properties  | https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties?view=vs-2022  |
+| Microsoft downloads web.archive.org WinNT, Win95, Win98, W2K, WinMe, WinXp  | https://web.archive.org/web/20050729021912/http://www.microsoft.com/windows/otherversions/default.mspx  |
+
 
 <br>Desktop Program/Tools list:
 | Description  | Link |
@@ -25,6 +27,7 @@
 | ------------- | ------------- |
 | Free Text-To-Speech and Text-to-MP3  | https://ttsmp3.com/  |
 | Deepl translator | https://www.deepl.com/en/translator  |
+| Internet Archive Wayback Machine | https://web.archive.org/  |
 
 <!---
 NaitWatch/NaitWatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
