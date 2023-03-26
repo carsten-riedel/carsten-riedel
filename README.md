@@ -1,10 +1,11 @@
-- 👋 Hi
-- :mage_man: You will see some unusual stuff here ;)
-- 🌱 Expect everything to be a product commerical. 
-- :heart: github.com
-- :skull_and_crossbones: Frameworks/Products that lock you up to stay in them.
-- :test_tube: Only use complex coding patterns if you need to, most of them are just taste.
-- 📫 How to reach me ...<br>
+## Hi there! 👋 I'm Carsten Riedel!
+
+I'm an experienced application developer specializing in the Microsoft tech stack. I'm proficient in using Visual Studio, C#, .NET Framework, and Microsoft SQL Server to build powerful, scalable applications that meet the needs of businesses and users alike. I'm also skilled in using PowerShell and Windows command line to automate tasks and improve workflows.
+
+Whether I'm working on a new application or improving an existing one, I'm passionate about using technology to create solutions that solve real-world problems. I'm always eager to learn new skills and stay up-to-date with the latest industry trends to ensure my work is of the highest quality.
+
+When I'm not coding, you can find me hiking, playing video games, or spending time with my family. Let's connect and build something amazing together!
+
 
 <br>Link list:
 | Description  | Link |
