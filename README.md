@@ -29,7 +29,10 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 [![Legacy](https://img.shields.io/badge/Legacy-WinNT4%2C%20W2K%2C%20WinXP%2C%20Win7-000000?&style=plastic)](https://github.com)
 [![Legacy](https://img.shields.io/badge/Legacy-VBS%2C%20VBA%2C%20VB6%20C++-000000?&style=plastic)](https://github.com)
 
+## Releases
+[![Nuget](https://img.shields.io/nuget/v/Coree.Nupack?label=Nuget%20Coree.Nupack)](https://www.nuget.org/packages/Coree.NuPack)
 
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery%20CoreePower.Config)](https://www.powershellgallery.com/packages/CoreePower.Config)
 
 ## Profiles
 - [![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-orange)](https://stackoverflow.com/users/19635455/carsten-r)
