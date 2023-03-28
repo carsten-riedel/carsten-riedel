@@ -30,9 +30,12 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 [![Legacy](https://img.shields.io/badge/Legacy-VBS%2C%20VBA%2C%20VB6%20C++-000000?&style=plastic)](https://github.com)
 
 ## Releases
-[![Nuget](https://img.shields.io/nuget/v/Coree.Nupack?label=Nuget%20Coree.Nupack)](https://www.nuget.org/packages/Coree.NuPack)
 
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery%20CoreePower.Config)](https://www.powershellgallery.com/packages/CoreePower.Config)
+[![Github](https://img.shields.io/badge/Github-Coree.Nupack-green)](https://github.com/carsten-riedel/Coree.Nupack)
+[![Nuget](https://img.shields.io/nuget/v/Coree.Nupack?label=NuGet)](https://www.nuget.org/packages/Coree.NuPack)
+
+[![Github](https://img.shields.io/badge/Github-CoreePower.Config-green)](https://github.com/carsten-riedel/CoreePower.Config)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery)](https://www.powershellgallery.com/packages/CoreePower.Config)
 
 ## Profiles
 - [![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-orange)](https://stackoverflow.com/users/19635455/carsten-r)
