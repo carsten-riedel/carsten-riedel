@@ -32,13 +32,13 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 ## Releases
 
 [![Github](https://img.shields.io/badge/Github-Coree.Nupack-green)](https://github.com/carsten-riedel/Coree.Nupack)
-[![Nuget](https://img.shields.io/nuget/v/Coree.Nupack?label=NuGet)](https://www.nuget.org/packages/Coree.NuPack)
+[![Nuget](https://img.shields.io/nuget/v/Coree.Nupack?label=NuGet&labelColor=004880&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Coree.NuPack)
 
 [![Github](https://img.shields.io/badge/Github-Coree.Extensions-green)](https://github.com/carsten-riedel/Coree.Extensions)
-[![Nuget](https://img.shields.io/nuget/v/Coree.Extensions?label=NuGet)](https://www.nuget.org/packages/Coree.Extensions)
+[![Nuget](https://img.shields.io/nuget/v/Coree.Extensions?label=NuGet&labelColor=004880&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Coree.Extensions)
 
 [![Github](https://img.shields.io/badge/Github-CoreePower.Config-green)](https://github.com/carsten-riedel/CoreePower.Config)
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery)](https://www.powershellgallery.com/packages/CoreePower.Config)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Config)
 
 ## Profiles
 - [![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-orange)](https://stackoverflow.com/users/19635455/carsten-r)
