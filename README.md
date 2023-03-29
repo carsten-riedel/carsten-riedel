@@ -40,6 +40,9 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 [![Github](https://img.shields.io/badge/Github-CoreePower.Config-green)](https://github.com/carsten-riedel/CoreePower.Config)
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Config)
 
+[![Github](https://img.shields.io/badge/Github-Visual--Studio--Offline-green?&style=plastic)](https://github.com/carsten-riedel/Visual-Studio-Offline)
+[![InnoSetup](https://img.shields.io/badge/InnoSetup-Visual--Studio--Offline-264E8F?&style=plastic)](https://jrsoftware.org/isinfo.php)
+
 ## Profiles
 - [![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-orange)](https://stackoverflow.com/users/19635455/carsten-r)
 - [![Super User](https://img.shields.io/badge/Profile-Server%20Vault-green)](https://superuser.com/users/1724090/carsten-r)
