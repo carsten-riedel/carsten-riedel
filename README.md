@@ -7,7 +7,7 @@ Whether I'm working on a new application or improving an existing one, I'm passi
 When I'm not coding, you can find me hiking, playing video games, or spending time with my family. Let's connect and build something amazing together!
 
 ## Tech stack
-##### Known
+#### Known
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=plastic)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)](https://code.visualstudio.com/)
 [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0067b8?logo=Server-Fault&logoColor=white&style=plastic)](https://www.microsoft.com/windows-server)
@@ -20,26 +20,29 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 [![Windows Command Line](https://img.shields.io/badge/-Windows%20Command%20Line-000000?logo=GNU-Bash&logoColor=white&style=plastic)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 [![Transact SQL](https://img.shields.io/badge/-Transact%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=plastic)](https://learn.microsoft.com/en-us/sql/t-sql)
 <br>
-##### Learning new
+#### Learning new
 [![Learning](https://img.shields.io/badge/Learning-.NET%20Multi--platform%20App%20--%20MAUI-blueviolet)](https://dotnet.microsoft.com/en-us/apps/maui)
 [![Blazor](https://img.shields.io/badge/Learning-Blazor-blue)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![Razor](https://img.shields.io/badge/Learning-Razor-green)](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-6.0)
 <br>
-##### Legacy
+#### Legacy
 [![Legacy](https://img.shields.io/badge/Legacy-WinNT4%2C%20W2K%2C%20WinXP%2C%20Win7-000000?&style=plastic)](https://github.com)
 [![Legacy](https://img.shields.io/badge/Legacy-VBS%2C%20VBA%2C%20VB6%20C++-000000?&style=plastic)](https://github.com)
 
 ## Releases
 
+#### Nuget
 [![Github](https://img.shields.io/badge/Github-Coree.Nupack-green)](https://github.com/carsten-riedel/Coree.Nupack)
 [![Nuget](https://img.shields.io/nuget/v/Coree.Nupack?label=NuGet&labelColor=004880&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Coree.NuPack)
 
 [![Github](https://img.shields.io/badge/Github-Coree.Extensions-green)](https://github.com/carsten-riedel/Coree.Extensions)
 [![Nuget](https://img.shields.io/nuget/v/Coree.Extensions?label=NuGet&labelColor=004880&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Coree.Extensions)
 
+#### Powershell module
 [![Github](https://img.shields.io/badge/Github-CoreePower.Config-green)](https://github.com/carsten-riedel/CoreePower.Config)
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Config)
 
+#### Setup
 [![Github](https://img.shields.io/badge/Github-Visual--Studio--Offline-green?&style=plastic)](https://github.com/carsten-riedel/Visual-Studio-Offline)
 [![InnoSetup](https://img.shields.io/badge/InnoSetup-Visual--Studio--Offline-264E8F?&style=plastic)](https://jrsoftware.org/isinfo.php)
 
