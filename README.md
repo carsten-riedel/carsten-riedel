@@ -42,6 +42,9 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 [![Github](https://img.shields.io/badge/Github-CoreePower.Config-green)](https://github.com/carsten-riedel/CoreePower.Config)
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Config)
 
+[![Github](https://img.shields.io/badge/Github-CoreePower.Module-green)](https://github.com/carsten-riedel/CoreePower.Module)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Module?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Module)
+
 [![Github](https://img.shields.io/badge/Github-CoreePower.Lib-green)](https://github.com/carsten-riedel/CoreePower.Lib)
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Lib?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Lib)
 
