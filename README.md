@@ -29,8 +29,8 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 [![Legacy](https://img.shields.io/badge/Legacy-WinNT4%2C%20W2K%2C%20WinXP%2C%20Win7-000000?&style=plastic)](https://github.com)
 [![Legacy](https://img.shields.io/badge/Legacy-VBS%2C%20VBA%2C%20VB6%20C++-000000?&style=plastic)](https://github.com)
 
-#### [**yHype Stats**](https://yhype.me/)
-![](https://komarev.com/ghpvc/?username=carsten-riedel&color=green&style=flat-square)
+#### [**yHype Stats**](https://yhype.me/) [Profile counter](https://github.com/antonkomarev/github-profile-views-counter)
+![](https://komarev.com/ghpvc/?username=carsten-riedel&color=green&style=flat)
 
 ## Releases
 
