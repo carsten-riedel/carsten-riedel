@@ -35,19 +35,13 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 ## Releases
 
 #### Nuget
-[![Github](https://img.shields.io/badge/Github-Coree.Nupack-green)](https://github.com/carsten-riedel/Coree.Nupack)
-[![Nuget](https://img.shields.io/nuget/v/Coree.Nupack?label=NuGet&labelColor=004880&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Coree.NuPack)
+[![Github](https://img.shields.io/badge/Github-Coree.Template.Project-green)](https://github.com/carsten-riedel/Coree.Template.Project)
+[![Nuget](https://img.shields.io/nuget/v/Coree.Template.Project?label=NuGet&labelColor=004880&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Coree.Template.Project)
 
 [![Github](https://img.shields.io/badge/Github-Coree.Extensions-green)](https://github.com/carsten-riedel/Coree.Extensions)
 [![Nuget](https://img.shields.io/nuget/v/Coree.Extensions?label=NuGet&labelColor=004880&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Coree.Extensions)
 
 #### Powershell module
-[![Github](https://img.shields.io/badge/Github-CoreePower.Config-green)](https://github.com/carsten-riedel/CoreePower.Config)
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Config?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Config)
-
-[![Github](https://img.shields.io/badge/Github-CoreePower.Module-green)](https://github.com/carsten-riedel/CoreePower.Module)
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Module?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Module)
-
 [![Github](https://img.shields.io/badge/Github-CoreePower.Lib-green)](https://github.com/carsten-riedel/CoreePower.Lib)
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Lib?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Lib)
 [![CI](https://github.com/carsten-riedel/CoreePower.Lib/actions/workflows/blank.yml/badge.svg)](https://github.com/carsten-riedel/CoreePower.Lib/actions/workflows/blank.yml)
