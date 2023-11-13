@@ -33,6 +33,14 @@ When I'm not coding, you can find me hiking, playing video games, or spending ti
 ![](https://komarev.com/ghpvc/?username=carsten-riedel&color=green&style=flat)
 
 ## Releases
+https://marketplace.visualstudio.com/items?itemName=Coree-CarstenRiedel.CoreeDotnetToolbar
+
+#### Visual Studio Marketplace
+[![Github](https://img.shields.io/badge/Github-Coree.VisualStudio.DotnetToolbar-green)](https://github.com/carsten-riedel/Coree.VisualStudio.DotnetToolbar)
+![Visual Studio Marketplace Version (including pre-releases)](https://img.shields.io/visual-studio-marketplace/v/coree-carstenriedel.coreedotnettoolbar?style=flat-square&label=Dotnettoolbar&labelColor=black&color=green&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DCoree-CarstenRiedel.CoreeDotnetToolbar)
+
+
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/coree-carstenriedel.coreedotnettoolbar?include_prereleases)]
 
 #### Nuget
 [![Github](https://img.shields.io/badge/Github-Coree.Template.Project-green)](https://github.com/carsten-riedel/Coree.Template.Project)
