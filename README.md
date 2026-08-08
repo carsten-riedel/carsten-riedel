@@ -1,86 +1,56 @@
-## Hi there! 👋 I'm Carsten Riedel!
+# Carsten Riedel
 
-I'm an experienced application developer specializing in the Microsoft tech stack. I'm proficient in using Visual Studio, C#, .NET Framework, and Microsoft SQL Server to build powerful, scalable applications that meet the needs of businesses and users alike. I'm also skilled in using PowerShell and Windows command line to automate tasks and improve workflows.
+**Application developer · C# / .NET · PowerShell · Windows automation · developer tooling**
 
-Whether I'm working on a new application or improving an existing one, I'm passionate about using technology to create solutions that solve real-world problems. I'm always eager to learn new skills and stay up-to-date with the latest industry trends to ensure my work is of the highest quality.
+I'm an experienced Microsoft-stack developer based in Germany. I work across modern .NET applications, developer tooling, automation, packaging, CI/CD, and Windows-focused infrastructure.
 
-When I'm not coding, you can find me hiking, playing video games, or spending time with my family. Let's connect and build something amazing together!
+My background also reaches deep into the classic Microsoft stack. That matters in real projects: modern systems often have to coexist with, integrate with, or replace software built over many years.
 
-## Tech stack
-#### Known
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=plastic)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)](https://code.visualstudio.com/)
-[![Windows Server](https://img.shields.io/badge/-Windows%20Server-0067b8?logo=Server-Fault&logoColor=white&style=plastic)](https://www.microsoft.com/windows-server)
-[![File Server](https://img.shields.io/badge/-File%20Server-ffd764?logo=Server-Fault&logoColor=black&style=plastic)](https://learn.microsoft.com/en-us/windows-server/storage/fsrm/fsrm-overview)
-[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=plastic)](https://www.microsoft.com/en-us/sql-server)
-[![Internet Information Services](https://img.shields.io/badge/-Internet%20Information%20Services-37a5e2?logo=WebAuthn&logoColor=white&style=plastic)](https://www.iis.net/)
-[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=plastic)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![.NET](https://img.shields.io/badge/.NET%206%20.NET%20Framework-512BD4?logo=.net&logoColor=white&style=plastic)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
-[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=PowerShell&logoColor=white&style=plastic)](https://learn.microsoft.com/en-us/powershell/)
-[![Windows Command Line](https://img.shields.io/badge/-Windows%20Command%20Line-000000?logo=GNU-Bash&logoColor=white&style=plastic)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
-[![Transact SQL](https://img.shields.io/badge/-Transact%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=plastic)](https://learn.microsoft.com/en-us/sql/t-sql)
-<br>
-#### Learning new
-[![Learning](https://img.shields.io/badge/Learning-.NET%20Multi--platform%20App%20--%20MAUI-blueviolet)](https://dotnet.microsoft.com/en-us/apps/maui)
-[![Blazor](https://img.shields.io/badge/Learning-Blazor-blue)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-[![Razor](https://img.shields.io/badge/Learning-Razor-green)](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-6.0)
-<br>
-#### Legacy
-[![Legacy](https://img.shields.io/badge/Legacy-WinNT4%2C%20W2K%2C%20WinXP%2C%20Win7-000000?&style=plastic)](https://github.com)
-[![Legacy](https://img.shields.io/badge/Legacy-VBS%2C%20VBA%2C%20VB6%20C++-000000?&style=plastic)](https://github.com)
+> **Open to new opportunities.** Most of my current public work is published under [**Eigenverft**](https://github.com/eigenverft).
 
-#### [**yHype Stats**](https://yhype.me/) [Profile counter](https://github.com/antonkomarev/github-profile-views-counter)
-![](https://komarev.com/ghpvc/?username=carsten-riedel&color=green&style=flat)
+## Current work
 
-## Releases
+A few representative projects from my current work at Eigenverft:
 
-#### Visual Studio Marketplace
-[![Github](https://img.shields.io/badge/Github-Coree.VisualStudio.DotnetToolbar-green)](https://github.com/carsten-riedel/Coree.VisualStudio.DotnetToolbar)
-[![Visual Studio Marketplace Version (including pre-releases)](https://img.shields.io/visual-studio-marketplace/v/coree-carstenriedel.coreedotnettoolbar?label=Dotnettoolbar&labelColor=black)](https://marketplace.visualstudio.com/items?itemName=Coree-CarstenRiedel.CoreeDotnetToolbar)
+| Project | Focus |
+| --- | --- |
+| [**Eigenverft.Manifested.Package**](https://github.com/eigenverft/Eigenverft.Manifested.Package) | Windows-focused PowerShell package assignment, signed catalogs, verified artifacts, shared depots, and reproducible/offline developer-machine bootstrap. |
+| [**Eigenverft.Distributed.Drydock**](https://github.com/eigenverft/Eigenverft.Distributed.Drydock) | C#/.NET command-line tooling for inspecting solutions and projects, extracting MSBuild properties, and supporting automation and CI/CD. |
+| [**Eigenverft.Manifested.Agent**](https://github.com/eigenverft/Eigenverft.Manifested.Agent) | PowerShell tooling around agent CLIs, task execution, named sessions, and lightweight local state management. |
 
-#### Nuget
-[![Github](https://img.shields.io/badge/Github-Coree.Template.Project-green)](https://github.com/carsten-riedel/Coree.Template.Project)
-[![Nuget](https://img.shields.io/nuget/v/Coree.Template.Project?label=NuGet&labelColor=004880&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Coree.Template.Project)
+More current projects and releases: **[github.com/eigenverft](https://github.com/eigenverft)**
 
-#### Powershell module
-[![Github](https://img.shields.io/badge/Github-CoreePower.Lib-green)](https://github.com/carsten-riedel/CoreePower.Lib)
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/CoreePower.Lib?label=PowerShellGallery&labelColor=5391FE&logo=PowerShell&logoColor=white)](https://www.powershellgallery.com/packages/CoreePower.Lib)
-[![CI](https://github.com/carsten-riedel/CoreePower.Lib/actions/workflows/blank.yml/badge.svg)](https://github.com/carsten-riedel/CoreePower.Lib/actions/workflows/blank.yml)
+## Technical focus
 
-#### Setup
-[![Github](https://img.shields.io/badge/Github-Visual--Studio--Offline-green?&style=plastic)](https://github.com/carsten-riedel/Visual-Studio-Offline)
-[![InnoSetup](https://img.shields.io/badge/InnoSetup-Visual--Studio--Offline-264E8F?&style=plastic)](https://jrsoftware.org/isinfo.php)
+- **C# / .NET** — modern .NET, ASP.NET Core, Blazor, Razor, libraries, services, CLI tooling
+- **.NET MAUI** — practical experience building and working with cross-platform application projects
+- **PowerShell** — automation, modules, packaging, environment/bootstrap workflows, Windows administration
+- **Developer tooling** — MSBuild, NuGet, project/solution inspection, build and release automation
+- **Windows** — Windows Server, IIS, desktop applications, command-line tooling, system integration
+- **Data** — Microsoft SQL Server and T-SQL
+- **Delivery** — Git, GitHub, GitHub Actions, reproducible CI/CD workflows
 
-## Profiles
-- [![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-orange)](https://stackoverflow.com/users/19635455/carsten-r)
-- [![Super User](https://img.shields.io/badge/Profile-Server%20Vault-green)](https://superuser.com/users/1724090/carsten-r)
-- [![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-blue)](https://www.linkedin.com/in/carsten-riedel-9808b0217/)
+## Long-term Microsoft-stack experience
 
+I keep the older parts of my stack visible because they are still relevant when maintaining and modernizing real-world systems.
 
-<br>Link list:
-| Description  | Link |
-| ------------- | ------------- |
-| GitHub Markdown  | https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  |
-| GitHub emoji  | https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  |
-| Target frameworks  | https://docs.microsoft.com/en-Us/dotnet/standard/frameworks  |
-| .NET Standard  | https://docs.microsoft.com/en-us/dotnet/standard/net-standard  |
-| MSBuild Properties  | https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties?view=vs-2022  |
-| Microsoft downloads web.archive.org WinNT, Win95, Win98, W2K, WinMe, WinXp  | https://web.archive.org/web/20050729021912/http://www.microsoft.com/windows/otherversions/default.mspx  |
+- .NET Framework, WinForms, WPF
+- **VB.NET, VB6, VBA, VBScript**
+- Classic Windows environments and Windows command-line tooling
+- IIS, Windows Server, SQL Server
+- Visual Studio across multiple generations
+- C/C++ exposure in legacy environments
 
+## Selected earlier work
 
-<br>Desktop Program/Tools list:
-| Description  | Link |
-| ------------- | ------------- |
-| Draw.io  | https://github.com/jgraph/drawio-desktop/releases  |
+- [**Visual-Studio-Offline**](https://github.com/carsten-riedel/Visual-Studio-Offline) — an offline Visual Studio installation approach packaged with Inno Setup; still one of my most visible earlier public projects.
+- [**Coree.Template.Project**](https://github.com/carsten-riedel/Coree.Template.Project) — Visual Studio and `dotnet` project templates covering libraries, tools, PowerShell cmdlets, desktop applications, MSBuild tasks, and template creation itself.
+- [**Coree.VisualStudio.DotnetToolbar**](https://github.com/carsten-riedel/Coree.VisualStudio.DotnetToolbar) — a Visual Studio extension bringing common `dotnet` commands into the IDE workflow.
 
-<br>Online Program/Tools list:
-| Description  | Link |
-| ------------- | ------------- |
-| Free Text-To-Speech and Text-to-MP3  | https://ttsmp3.com/  |
-| Deepl translator | https://www.deepl.com/en/translator  |
-| Internet Archive Wayback Machine | https://web.archive.org/  |
+The rest of the repositories on this account are intentionally left available as part of my development history. **New public work is primarily published through Eigenverft.**
 
-<!---
-NaitWatch/NaitWatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact
+
+- Email: [carstenriedel@outlook.com](mailto:carstenriedel@outlook.com)
+- LinkedIn: [Carsten Riedel](https://www.linkedin.com/in/carsten-riedel-9808b0217/)
+- Stack Overflow: [Carsten R.](https://stackoverflow.com/users/19635455/carsten-r)
