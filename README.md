@@ -8,15 +8,18 @@ My background also reaches deep into the classic Microsoft stack. That matters i
 
 > **Open to new opportunities.** Most of my current public work is published under [**Eigenverft**](https://github.com/eigenverft).
 
-## Current work
+## Selected work
 
-A few representative projects from my current work at Eigenverft:
+A few representative projects from my current and earlier work:
 
 | Project | Focus |
 | --- | --- |
 | [**Eigenverft.Manifested.Package**](https://github.com/eigenverft/Eigenverft.Manifested.Package) | Windows-focused PowerShell package assignment, signed catalogs, verified artifacts, shared depots, and reproducible/offline developer-machine bootstrap. |
-| [**Eigenverft.Distributed.Drydock**](https://github.com/eigenverft/Eigenverft.Distributed.Drydock) | C#/.NET command-line tooling for inspecting solutions and projects, extracting MSBuild properties, and supporting automation and CI/CD. |
-| [**Eigenverft.Manifested.Agent**](https://github.com/eigenverft/Eigenverft.Manifested.Agent) | PowerShell tooling around agent CLIs, task execution, named sessions, and lightweight local state management. |
+| [**Eigenverft.NetLib.Infrastructure**](https://github.com/eigenverft/Eigenverft.NetLib.Infrastructure) | Host-independent .NET infrastructure for writable application storage, validated configuration, certificates, and startup diagnostics. |
+| [**Eigenverft.WebLib.Infrastructure**](https://github.com/eigenverft/Eigenverft.WebLib.Infrastructure) | ASP.NET Core adapters for reload-safe Kestrel/SNI, certificates, web-host directories, redirects, and health probes. |
+| [**Coree.Template.Project**](https://github.com/carsten-riedel/Coree.Template.Project) | Visual Studio and `dotnet` project templates covering libraries, tools, PowerShell cmdlets, desktop applications, MSBuild tasks, and template creation itself. |
+| [**Coree.Analyzers**](https://github.com/carsten-riedel/Coree.Analyzers) | Roslyn analyzers for typography and source-quality rules. |
+| [**Visual-Studio-Offline**](https://github.com/carsten-riedel/Visual-Studio-Offline) | An offline Visual Studio installation approach packaged with Inno Setup. |
 
 More current projects and releases: **[github.com/eigenverft](https://github.com/eigenverft)**
 
@@ -40,12 +43,6 @@ I keep the older parts of my stack visible because they are still relevant when 
 - IIS, Windows Server, SQL Server
 - Visual Studio across multiple generations
 - C/C++ exposure in legacy environments
-
-## Selected earlier work
-
-- [**Visual-Studio-Offline**](https://github.com/carsten-riedel/Visual-Studio-Offline) — an offline Visual Studio installation approach packaged with Inno Setup; still one of my most visible earlier public projects.
-- [**Coree.Template.Project**](https://github.com/carsten-riedel/Coree.Template.Project) — Visual Studio and `dotnet` project templates covering libraries, tools, PowerShell cmdlets, desktop applications, MSBuild tasks, and template creation itself.
-- [**Coree.VisualStudio.DotnetToolbar**](https://github.com/carsten-riedel/Coree.VisualStudio.DotnetToolbar) — a Visual Studio extension bringing common `dotnet` commands into the IDE workflow.
 
 The rest of the repositories on this account are intentionally left available as part of my development history. **New public work is primarily published through Eigenverft.**
 
